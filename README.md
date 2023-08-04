@@ -1,19 +1,34 @@
-https://www.youtube.com/watch?v=IiuWlqabx9M
+Quelle der Liste: https://www.youtube.com/watch?v=IiuWlqabx9M
 
 # Versions Verwaltung
-
-    GIT pull/push/merge/rebase
-    Bitbucket
+| Programm | Ziel | geschätzte Dauer in Stunden | Links |
+| ----------- | ----------- |----------- | ----------- |
+| Git | pull/push/merge/rebase | 2 |
+| Markdown | Das hier :) | 1 | [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) |
+| Bitbucket | pull/push/merge/rebase | 0.5 - wie GIT nur mit WebGui |
 
 # Linux
+Haupstächlich für das bauen und erweitern von Linux Base Images auf Ubi8-9,Ubuntu und Arc Linux Images
 
-    RHEL/Ubuntu/Arc Linux Paket Verwaltung (wegen docker images)
+| Programm | Ziel | geschätzte Dauer in Stunden |
+| ----------- | ----------- |----------- |
+| RHEL | Rhel >=8 Streams / systemd --user/timer | 2 |
+| Ubuntu | Package Management snap / systemd --user/timer | 2 |
+| Arc | Package Management wie auch immer / systemd --user/timer | 2 |
 
 # Coding
+## Must
+| Programm | Ziel | geschätzte Dauer in Stunden |
+| ----------- | ----------- |----------- |
+| Shell | News zu Bash lesen und bissl testen | 2 Stunden |
 
-    Shell
-    Python
-    go
+## Good to have
+| Programm | Ziel | geschätzte Dauer in Stunden |
+| ----------- | ----------- |----------- |
+| Python | Schleifen, Listen, Dictionaries, Funktionen, Klassen, Virtual Environments | 4 Stunden |
+| Django | Webframework für Python, Einfache Webservices für z.b. LDAP querys, DB Abfragen usw | 8 Stunden |
+| go | unklar | 0 |
+| javascript / nodejs | unklar | 0 |
 
 # Agile Development
 
@@ -43,9 +58,9 @@ https://www.youtube.com/watch?v=IiuWlqabx9M
     ansible-playbook/ansible-navigator/Tower
 
 # Jenkins
-
-    Installation/Deployments/Generel undertanding of Jenkins working
-    Jenkins Python Pipeline Tutorial    https://www.youtube.com/watch?v=6njM8g5hKuk
+| Programm | Ziel | geschätzte Dauer in Stunden | Links |
+| ----------- | ----------- |----------- | ----------- |
+| Jenkins | Installation/Deployments/Generel undertanding of Jenkins working | 8 | 	[Jenkins Python Pipeline Tutorial](https://www.youtube.com/watch?v=6njM8g5hKuk) |
 
 ### Links
 
